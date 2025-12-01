@@ -1,2 +1,2 @@
-# Online_Store
-SQL Online_store project that holds of basic and advanced commands
+# Online_BookStore
+SQL Online_bookstore project that holds of basic and advanced commands
